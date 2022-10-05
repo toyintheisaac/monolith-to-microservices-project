@@ -13,7 +13,8 @@ log.txt
 npm-debug.log*
 
 steps.sh
-
+dep.sh
+set_env.sh
 
 .idea/
 .ionic/
@@ -33,7 +34,6 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-set_env.sh
 
 
 .DS_Store

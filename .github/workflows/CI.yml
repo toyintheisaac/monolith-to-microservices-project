@@ -26,3 +26,4 @@ jobs:
     - run: docker push toyintheisaac/udagram-api-user:v1
     - run: docker push toyintheisaac/udagram-api-feed:v1
     - run: docker push toyintheisaac/reverseproxy:v1
+

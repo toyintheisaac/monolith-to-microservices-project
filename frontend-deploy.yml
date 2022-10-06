@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: toyintheisaac/udagram-frontend:v2
+          image: toyintheisaac/udagram-frontend:v1
           ports:
             - containerPort: 80

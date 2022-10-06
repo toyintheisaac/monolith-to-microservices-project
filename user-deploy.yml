@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: backend-user
-          image: toyintheisaac/udagram-api-user:v2
+          image: toyintheisaac/udagram-api-user:v1
           ports:
             - containerPort: 8080
           resources:
